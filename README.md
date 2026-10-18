@@ -21,7 +21,7 @@ An interactive sales analytics dashboard developed using Microsoft Excel to moni
 - KPI Reporting and Data Visualization
 
 ## Dashboard Preview
-![Super Store Sales Dashboard](images/dashboard-preview.jpg)
+Watch the Super Store Sales Dashboard Demo](Sales%20Dashboard.mp4
 
 ## Key Highlights
 - Consolidated key sales KPIs into one dashboard.
